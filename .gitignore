@@ -1,0 +1,20 @@
+#java specific
+*.class
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+## processing
+*.applet
+
+##javadoc
+doc/*
+
+##intellij files
+.idea/workspace.xml
+.idea/tasks.xml
+*.iws
