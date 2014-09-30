@@ -20,7 +20,7 @@ Run as Java Application from class `Main`
 Run as Java Applet from class `FalldownApplet`
 
 # License
-</code>
+```
 /*
  * Copyright (C) 2014 Peter Mösenthin <peter.moesenthin@gmail.com>
  *
@@ -36,4 +36,4 @@ Run as Java Applet from class `FalldownApplet`
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-<code>
+```
